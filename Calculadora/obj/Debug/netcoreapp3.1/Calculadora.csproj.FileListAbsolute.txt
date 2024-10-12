@@ -1,0 +1,13 @@
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\C#\DesafioDotNetCore3.1Testes\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
